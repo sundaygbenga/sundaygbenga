@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Sunday Gbenga Atere
 
-# Front-End Engineer | React | Next | Passionate about building scalable technology 
+# Front-End Engineer | React | Next | Passionate about building scalable and sustainable technologies. 
 
 - 🔭 I’m currently working on ... the-wild-oasis web apllication project
 - 🌱 I’m currently learning Advanced topic in | Baas | React | Algorithms  <
