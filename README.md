@@ -11,7 +11,7 @@
 - ⚡ Fun fact: There is no linit to what you can achieve
 
   ### Languages and Tools:
- ## | Javascript || React || Tailwind Css || Bootstrap || mysql | css3 || Node || Express || Mongodb || Express |
+ ## | Javascript || React || Next || Tailwind Css || Bootstrap || mysql | css3 || Node || Express || Mongodb || Express |
 
 
 <!--
