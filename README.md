@@ -13,7 +13,7 @@
   PROJECT LINKS
  [Portfolio Website](https://sunflizdev.netlify.app/)
  [Bankist Website](https://the-bankist.vercel.app/)
- [Fashion Website](https://sunflizfashionhub.vercel.app/)
+ [WOrldwise Website](https://worldwise-travelers.netlify.app/)
  [Fashion Website](https://sunflizfashionhub.vercel.app/)
 
 
