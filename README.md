@@ -18,7 +18,7 @@
 
 
   ### Languages and Tools:
- ## | Javascript || React || Next || Tailwind Css || Bootstrap || mysql | css3 || Node || Express || Mongodb || Express |
+ ## | Javascript || React.Js || Next.Js || Tailwind Css || Bootstrap || mysql | css3 || Node.Js || Mongodb || Express Js |
 
 
 <!--
