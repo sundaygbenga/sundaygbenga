@@ -4,14 +4,14 @@
 
 - 🔭 I’m currently working on ... the-wild-oasis web apllication project
 - 🌱 I’m currently learning Advanced topic in | Baas | React | Algorithms  <
-- 🧑‍💻 You can visit my profile to know more about me [My Portfolio](https://www.sunflizdev.netlify.app)    
+- 🧑‍💻 You can visit my profile to know more about me [My Portfolio](https://fliztech.vercel.app/)    
 - 👯 I’m looking to collaborate on || Open source projects 
 - 💬 Ask me about Problem Solving | React |Javascript 
-- 📫 How to reach me via email [sunflizasher@gmail.com](mailto:sunflizasher@gmail.com)
+- 📫 How to reach me via email [sunflizasher@gmail.com](mailto:sundayatere16@gmail.com)
 - ⚡ Fun fact: There is no linit to what you can achieve
 
   PROJECT LINKS
- [Portfolio Website](https://sunflizdev.netlify.app/)
+ [Portfolio Website](https://fliztech.vercel.app/)
  [Bankist Website](https://the-bankist.vercel.app/)
  [WOrldwise Website](https://worldwise-travelers.netlify.app/)
  [Fashion Website](https://sunflizfashionhub.vercel.app/)
